@@ -1,6 +1,6 @@
 ## 📢 My profile
 
-[![nilaoda's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilaoda&show_icons=true&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilaoda&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![duanshaoshuai's GitHub stats](https://github-readme-stats.vercel.app/api?username=duanshaoshuai&show_icons=true&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duanshaoshuai&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 😄 About me
 
@@ -11,11 +11,11 @@
 
 ## 📫 Social
 
-Email: nilaoda@live.com  
-Blog: https://github.com/nilaoda/Blog/discussions
+Email: duanshaoshuai@live.com  
+Blog: https://github.com/duanshaoshuai/Blog/discussions
 
 <!--
-**nilaoda/nilaoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**duanshaoshuai/duanshaoshuai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
