@@ -11,7 +11,7 @@
 
 ## 📫 Social
 
-Email: rever67697@live.com  
+Email: rever207@gmail.com  
 Blog: https://github.com/rever67697/Blog/discussions
 
 <!--
